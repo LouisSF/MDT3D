@@ -1,3 +1,4 @@
 # MDT3D
 
-Code will be uploaded by November 1st 2023
+Due to other projects and deadlines, the release of MDT3D is on hold for now, but projected for the first quarter of 2024.
+Thank you for your patience ! 
